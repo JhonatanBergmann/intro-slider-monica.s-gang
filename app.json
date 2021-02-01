@@ -1,0 +1,12 @@
+{
+  "name": "sliders",
+  "displayName": "sliders",
+  "expo": {
+    "name": "sliders",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
