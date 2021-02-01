@@ -9,7 +9,7 @@
 
 ## 📅 Sobre
 
-Aplicando o React Native App Intro Slider, um controle deslizante de introdução fácil de usar baseado em FlatList. Acompanhado do useState para controlar o estado e salvando na memória do dispositivo o valor verdadeiro se a Intro já foi exibida, caso tenha sido exibida salva com o AsyncStorage e não será mais exibida a Intro quando acessar o App novamente.
+Aplicando o React Native App Intro Slider, um controle deslizante de introdução fácil de usar baseado em FlatList. Acompanhado do useState para controlar o estado e o useEffect para controlar o efeito, salvando na memória do dispositivo o valor verdadeiro se a Intro já foi exibida, caso tenha sido exibida salva com o AsyncStorage e não será mais exibida a Intro quando acessar o App novamente.
 
 ## 🌐 Tecnologias Usadas
 Foram usadas essas tecnologias:
